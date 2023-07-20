@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="sDT"><NumberFormat ss:Format="Short Date"/></Style>
+</Styles>
+<Worksheet ss:Name="Sheet1">
+    <Table>
+        <Row>
+            <Cell><Data ss:Type="String">S.No</Data></Cell>
+            <Cell><Data ss:Type="String">Dispatch no</Data></Cell>
+            <Cell><Data ss:Type="String">Subcontractor Name</Data></Cell>
+            <Cell><Data ss:Type="String">Rawmaterial Name</Data></Cell>
+            <Cell><Data ss:Type="String">Available Stock</Data></Cell>
+            <Cell><Data ss:Type="String">Quantity Dispatched</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="Number">1</Data></Cell>
+            <Cell><Data ss:Type="String">DRN02</Data></Cell>
+            <Cell><Data ss:Type="String">Tester</Data></Cell>
+            <Cell><Data ss:Type="String">2645 Resin</Data></Cell>
+            <Cell><Data ss:Type="Number">14</Data></Cell>
+            <Cell><Data ss:Type="Number">5</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="Number">2</Data></Cell>
+            <Cell><Data ss:Type="String">DRN02</Data></Cell>
+            <Cell><Data ss:Type="String">Tester</Data></Cell>
+            <Cell><Data ss:Type="String">300 CSM GLASS MAT</Data></Cell>
+            <Cell><Data ss:Type="Number">12</Data></Cell>
+            <Cell><Data ss:Type="Number">5</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="Number">3</Data></Cell>
+            <Cell><Data ss:Type="String">DRN02</Data></Cell>
+            <Cell><Data ss:Type="String">Tester</Data></Cell>
+            <Cell><Data ss:Type="String">Accelerator</Data></Cell>
+            <Cell><Data ss:Type="Number">21</Data></Cell>
+            <Cell><Data ss:Type="Number">5</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="Number">4</Data></Cell>
+            <Cell><Data ss:Type="String">DRN02</Data></Cell>
+            <Cell><Data ss:Type="String">Tester</Data></Cell>
+            <Cell><Data ss:Type="String">Brown</Data></Cell>
+            <Cell><Data ss:Type="Number">11</Data></Cell>
+            <Cell><Data ss:Type="Number">5</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="Number">5</Data></Cell>
+            <Cell><Data ss:Type="String">DRN02</Data></Cell>
+            <Cell><Data ss:Type="String">Tester</Data></Cell>
+            <Cell><Data ss:Type="String">Catalyst</Data></Cell>
+            <Cell><Data ss:Type="Number">22</Data></Cell>
+            <Cell><Data ss:Type="Number">5</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="Number">6</Data></Cell>
+            <Cell><Data ss:Type="String">DRN02</Data></Cell>
+            <Cell><Data ss:Type="String">Tester</Data></Cell>
+            <Cell><Data ss:Type="String">test1</Data></Cell>
+            <Cell><Data ss:Type="Number">35</Data></Cell>
+            <Cell><Data ss:Type="Number">10</Data></Cell>
+        </Row>
+    </Table>
+</Worksheet>
+</Workbook>

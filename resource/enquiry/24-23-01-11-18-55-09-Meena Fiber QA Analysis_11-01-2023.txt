@@ -1,0 +1,81 @@
+Meena Fiber QA Analysis:
+
+1.static data -> Department master page issue navigation issue. 
+    
+2.When we want to delete more than one record not able to select the multiple record at a time.
+ 
+3.Production => Enquiry => Quantityt -> not sort 10 if 10000 Present.
+
+4.Static data => All Form -> When we want to delete more than one record not able to select the multiple record at a same time.
+
+5.Static data => All Form -> Select All Option Not Working.
+
+6.Add => contact person  ->  we press tab the cursor will move on the address it will skip the Company name textbox and then also swap the Company Name after Contact Person
+
+7.Enquiry => When I select and view the form, it should not be editable (Browser: Firefox).
+
+8.Enquiry => PO Number and Production Status Remarks we need read-only which will be populated on production order.
+
+9.Enquiry => Remaind Spelling mistake in (Reminder).
+
+10.Enquiry => contact person text box needs a drop-down box for name choosing and able to choose name if already exist.
+
+11.Customer =>  Need validation on website .
+
+12.Employee Form =>  Add  -> DOB will fall on current date if typing and then need need validation.
+
+13.Customer => Pincode should be only 6 digit and need validation.
+
+14.Customer => GST Should be only 15 digits with no special character needing validation.
+
+15.Enquiry  => Unable to delete the existing record.
+
+16.Enquiry  => RPF If Any will be uploaded any files the contact person's name will not be displayed
+
+
+
+
+
+
+
+
+
+
+en
+Prod.Ord.---we need
+remainder--spell
+need validation on website 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note Later Issues:
+------------------
+1.
+
+
+Taxes ->alphabet should not allow

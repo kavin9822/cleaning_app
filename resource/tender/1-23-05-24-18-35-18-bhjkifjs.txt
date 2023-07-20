@@ -1,0 +1,4 @@
+//div[6]//div[2]//div[1]
+
+def n = 10
+	def msg_xpath = "//div["+ n +"]//div[2]//div[3]

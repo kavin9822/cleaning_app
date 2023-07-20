@@ -1,0 +1,1 @@
+<button type="<?php echo $type; ?>" class="btn btn-info <?php echo $status; ?>"><?php echo $label; ?></button>

@@ -1,0 +1,3 @@
+
+ Customer Order
+When adding to Customer Order, after uploading more than two (Uploaded Items). If only one Uploaded Items is deleted, all Uploaded Items are deleted.

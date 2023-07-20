@@ -1,0 +1,48 @@
+
+------------------
+19-Jan-2023
+==================
+
+Tutor :
+------------
+(1). Sign IN - Success
+(2). Login IN Manual. & Mail - Success
+(3). Class creation. - Success
+(4). Add Milestone. - Success
+(5). View Attendence. --> Session Count --> Correct - Success
+(6). Total Sessions = Sessions Left = Enrolled = 0 = Seats left - Success
+(7). Able to accept student request - Success
+(8)  FAQ Working. - Success
+(9). Note sending students - Success 
+
+Student :
+------------
+(1). Sign IN - Success
+(2). Login IN Manual & Mail - Success.
+(3). Book All Session  - Success.
+(4). FAQ Working-- Success
+
+
+TestCase for class creation:
+----------------------------
+
+{^Student == ^Tutor   == ^Class        == Same  locations}---->(session)----> Everyweek.(Jan/01/2023 - Mar/05/2023)
+
+{^Student == ^Tutor   == Same location == ^Class different locations}---->(session)----> Everyweek.
+
+{^Class   == ^Tutor   == Same location == ^Student different locations}---->(session)----> Everyweek.
+
+{^Class   == ^Student == Same location == ^Tutor different locations}---->(session)----> Everyweek.
+
+
+
+=======================================================================================================================================================================
+Metting links:
+--------------
+https://us04web.zoom.us/j/3805780616?pwd=VTBzWlNYV2tpMElsWmkyVURxRGM2QT09\
+
+https://course.nurtem.com/course/it-courses
+
+https://test.nurtem.com/Packages/singleproduct/217/base-science-level-142
+
+
