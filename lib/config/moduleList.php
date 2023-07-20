@@ -6,14 +6,6 @@
 return array(
 	'admin',
 	'customer',
-	'employee',
-	'sales',
-    'supplier',
-	'user',
-	'purchase',
-	'store',
-	'production',
-	'dispatch',
-	'report'
+	'user'
     
     );
