@@ -1,0 +1,62 @@
+Suggestions:   Version 1.0.0
+===========
+1.once tutor login with mail clicking learn button its going to Sign up page but want Sign In page. (done) 
+
+2.Profile - To show atleast phone number.
+
+3.my classes - To show the today class first (or)To show in a alphabetic order (or) To show timing depends in first order. (done)
+
+4.To display the total session first. 
+
+5.To reconsider the date format. (done)
+
+6.please change the profile photo size don't be black. (done)
+
+7. To change the text (The field is required) eg:Please input your E-mail and Please input your Password!  (label text required) (done)
+
+8. Give some Welcome message once we login.
+
+9.To change the my class logo.
+
+10.Need alert message for if we logout or exit to the app.[Once we click back option it will exit so we again open it]. (done)
+
+11. app logo brightness 
+
+12. completed classes should be filtered 
+
+
+Bugs:
+=======
+1.Showing all classes in Studio but it is in-person  and in camp it shown in-person.(done)
+
+2.when session added it will not display in today's class only default today's class will be shown. (done)
+
+3. Sessions Added and Sessions Reschduled field will be missing.(done)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13.02.2023        Version 1.0.1
+===========
+=>Tutor :
+-------
+  (1). Login In with password - Password
+  (2). Login In with Google - Fail  [Loding continiously]
+  (3). To change the text (The field is required) eg:Please input your E-mail and Please input your Password!  (label text required) 
+  
+=>Dashboard :
+-------------
+  (1).Date Showing correctlt.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------13.02.23
+========
+(1). NW-2743 - In tutor settings change the password button having design issue.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15.02.2023
+==========
+Note:
+-----
+(1). when present in camp window and then in clicking the Logout button only high in dasdboard not in camp.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,117 @@
+student id: uvarajultimate@gmail.com ; password : Test@1234
+
+Nurtem Test:
+-------------
+12-jan-2023
+==============
+1.NW-2687 - Unable to upload profile photo in student. [Ram]
+2.NW-2688 - Student search Dashboard filter not working properly. [Guna sir]
+3.NW-2689 - In student -> Message not able to identify tutor message ((Both messages showing “Myself“)).[Guna sir] 
+
+
+-------------
+13-jan-2023
+==============
+Noted : Message conversation flow will not working properly in both student and tutor.
+
+
+------------------
+17-Jan-2023
+==================
+
+writing test cases for automation.
+
+------------------
+18-Jan-2023
+==================
+
+1.NW-2690 - When I edit coupon and refresh the page, its go to add coupon. [Guna sir]
+
+2.NW-2691 - Getting error message while update the profile image in tutor. [Guna sir]
+
+3.NW-2692 - Unable to delete tutor profile photo. [Guna sir]
+
+4.NW-2693 - Allow video files to upload profile & cover photo in tutor. [Guna sir]
+
+
+------------------
+19-Jan-2023
+==================
+1.NW-2694 - In mobile view the dashboard are appearing in default. [Guna sir]
+
+2.NW-2697 - when sign up student getting error message. [Ram]
+
+3.NW-2698 - In tutor profile No.of Students taught so far* field repeating 2 times. [Ram]
+
+4.NW-2700 - Student unable to reply tutor first message. [Guna sir] -> {TO DO}
+
+
+
+Friday Nurtem QA Report: (18.01.23 -19.01.2023)
+========================
+1.NW-2690 - When I edit coupon and refresh the page, its go to add coupon. [Guna sir] -> {TO DO}
+
+2.NW-2691 - Getting error message while update the profile image in tutor. [Guna sir] -> {TO DO}
+
+3.NW-2692 - Unable to delete tutor profile photo.                          [Guna sir] -> {Inprogress}
+
+4.NW-2693 - Allow video files to upload profile & cover photo in tutor.    [Guna sir] -> {TO DO}
+
+5.NW-2694 - In mobile view the dashboard are appearing in default.         [Guna sir] -> {TO DO}
+
+6.NW-2697 - when sign up student getting error message.                    [Ram] -> {TO DO}
+
+7.NW-2698 - In tutor profile No.of Students taught so far* field repeating 2 times. [Ram] -> {TO DO}
+
+8.NW-2699 - When a tutor sent a message replay not coming.                  [Guna sir] -> {TO DO}
+
+9.NW-2595 - Dependent Login -->In My classes --> Booked class is not shown. [Guna sir] -> {TO DO}  
+
+10.NW-2658 - In Tutor While updating the milestone one by one order only updating. [Ram] -> {TO DO}
+
+11.NW-2673 - When a tutor add the milestone, that class is not shown in the class card (multi day).  [Guna sir] -> {TO DO}
+
+12.NW-2674 - When a student searches a class and refresh the page the search results are missing. [Guna sir] -> {TO DO} 
+
+13.NW-2658 - In Tutor While updating the milestone one by one order only updating. [Ram] -> {TO DO}
+
+
+
+
+
+------------------
+24-Jan-2023
+==================
+
+Session -> wednesday ->  "Flutter & Dart - The Complete Guide " (24-01-2023 - 28-02-2023) - total session count =  8 
+
+1.NW-2708 - individual tutor --> When I add a class, the link show as update class. [Guna sir] -> {TO DO} 
+
+2.NW-2710 - Tutor unable to reschedule the class at the last date of the total session. [Ram] -> {TO DO}
+
+3.NW-2707 - when I change the class group to an individual page goes blank an error occurs in a tutor. [Guna sir] -> {TO DO} 
+
+4.NW-2709 - When a book a class via guest, The error message is shown.[Guna sir] -> {TO DO} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

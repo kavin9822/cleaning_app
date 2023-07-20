@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../cleaning_app"
+		},
+		{
+			"name": "cleaning_app",
+			"path": "../../../cleaning_app/cleaning_app"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,105 @@
+ .span_star{
+    top: unset;
+  }
+ /*.description textarea.form-control{*/
+ /* height: 45px;*/
+ /*}*/
+#field{
+  margin-bottom: unset!important;
+}
+.card{
+  box-shadow: 1px 1px 7px #cccccc;
+  width: 95%;
+  border-radius: 4px;
+  margin: 0 auto;
+  padding: 16px 2px 9px 2px;
+  background-color: #dadada2e;
+}
+.query_btn, .reset_btn {
+  border: transparent;
+  background-color: #2264ad;
+  color: #fff;
+  padding: 4px 12px 4px 12px;
+  border-radius: 3px;
+}
+.reset_btn{
+background-color:#737373;
+}
+.add_new_btn{
+    color: #171616;
+    background: linear-gradient(to top, #969492, #ffffff);
+    padding: 4px 10px 4px 10px;
+    font-size: 13px;
+    border: 2px solid #d5d8d4;
+    border-radius: 3px;
+}
+.title_cls{
+    font-size: 12px;
+    background-color: #7b7b7b;
+    padding: 5px 20px 4px 20px;
+    width: 100%;
+    border-radius: 2px;
+    color: #fff;
+}
+/*.js-example-basic-single{*/
+/*  height: 195px!important;*/
+/*}*/
+.btn-files {
+    position: absolute;
+    overflow: hidden;
+}
+.btn-files input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+.removeFile{
+  float: right;
+}
+.remove_cls{
+      color: #262a2a;
+        text-decoration: underline;
+        /*float:right;*/
+        margin:0px 8px;
+  }
+.fileList {
+  border: 1px solid #ccc;
+  padding: 14px 10px 10px 10px;
+  width: 100%;
+  height: 184px;
+  border-radius: 3px;
+  overflow-y: scroll;
+}
+.head_cls{
+  padding: 7px 10px 7px 10px;
+  width: 100%;
+  border-radius: 3px;
+  text-align: center;
+  /*background-color: #696565;*/
+  background-color: #3c8dbc;
+  color: #fff;
+}
+.remove-me{
+    position: relative;
+    height: 45px;
+    top: -44px;
+    left: 93%;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+/*.offervalid, .dropdown-menu{*/
+/*  font-size: 12px!important;*/
+/*  line-height: 1.6rem!important;*/
+/*  min-width: unset!important;*/
+/*}*/
+

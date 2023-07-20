@@ -1,0 +1,6 @@
+
+Dispatch Supply
+ FG Stock is 0 but the Dispatch Supply form is getting submitted.
+
+ Customer
+When adding the customer, the form is submitted even if the words are not given in the website format.

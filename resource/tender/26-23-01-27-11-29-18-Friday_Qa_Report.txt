@@ -1,0 +1,31 @@
+Friday Nurtem QA Report: 
+========================
+1.NW-2690 - When I edit coupon and refresh the page, its go to add coupon. [Guna sir] -> {TO DO}
+
+2.NW-2691 - Getting error message while update the profile image in tutor. [Guna sir] -> {TO DO}
+
+3.NW-2692 - Unable to delete tutor profile photo.                          [Guna sir] -> {Inprogress}
+
+4.NW-2693 - Allow video files to upload profile & cover photo in tutor.    [Guna sir] -> {TO DO}
+
+5.NW-2694 - In mobile view the dashboard are appearing in default.         [Guna sir] -> {TO DO}
+
+6.NW-2697 - when sign up student getting error message.                    [Ram] -> {TO DO}
+
+7.NW-2698 - In tutor profile No.of Students taught so far* field repeating 2 times. [Ram] -> {TO DO}
+
+8.NW-2699 - When a tutor sent a message replay not coming.                  [Guna sir] -> {TO DO}
+
+9.NW-2595 - Dependent Login -->In My classes --> Booked class is not shown. [Guna sir] -> {TO DO}  
+
+10.NW-2658 - In Tutor While updating the milestone one by one order only updating. [Ram] -> {TO DO}
+
+11.NW-2673 - When a tutor add the milestone, that class is not shown in the class card (multi day).  [Guna sir] -> {TO DO}
+
+12.NW-2674 - When a student searches a class and refresh the page the search results are missing. [Guna sir] -> {TO DO} 
+
+13.NW-2658 - In Tutor While updating the milestone one by one order only updating. [Ram] -> {TO DO}
+
+14.NW-2700 - Student unable to reply tutor first message. [Guna sir] -> {TO DO}
+
+

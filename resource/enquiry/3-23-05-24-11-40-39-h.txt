@@ -1,0 +1,44 @@
+Raw meterial
+
+In Raw material, click on edit button and give clear, it is not clear
+
+Raw meterial
+
+When adding raw material clear the information in Raw material master, it takes some time to clear the information in Raw Material Category and Raw Material SubCategory.
+
+
+Raw meterial//
+
+In raw material enter the subject to be searched in the search field, the search is done without clicking the search button
+
+Purchase Indent
+
+When adding to Purchase Indent. If you give three items and click submit button twice. In Purchase Indent ,Purchase Indent no two times Purchase.
+
+Purchase Order
+Forward slash is accepted in Discount on Purchase Order. discount amount becomes NaN
+
+Purchase Order
+Forward slash is accepted in GST on Purchase Order. GST amount becomes NaN
+
+Purchase Order
+When adding to Purchase order. If you give three items and click submit button twice. In Purchase order ,Purchase  no two times Purchase.
+
+Material Inward
+Forward slash is accepted in Received quantity in Material Inward. Total amount is NaN
+
+ Inventory Transfer
+A forward slash is accepted in Transfer Quantity when adding to Inventory Transfer
+
+
+Qc Material Inward
+ When adding to Qc Material Inward, the words and symbols in Accepted quantity are accepted. Rejected Quantity becomes NaN.
+
+Qc Material Inward
+Rejected quantity in Qc Material Inward is null but still the Rejection Reason gets submitted
+
+Purchase Order
+If you copy and paste an information in Price in Purchase Order, that information is accepted in Price. amount is NaN.
+
+Material Inward
+copy and paste an information in Cost/unit in Material Inward, that information is accepted in Cost/unit. Total becomes NaN.

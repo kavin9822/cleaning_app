@@ -1,0 +1,46 @@
+Nurtem QA Analysis : (27-01-2023)
+
+
+bussiness Acc:
+
+1) Session => Every Week => (Tuesaday) => (29.01.2023 - 28.02.2023) => total 5 session .  Success
+  
+          Class Name : "Java Programming for Complete Beginners".
+		  
+		  tutor 1 : 
+		            Profile Name: Grow More Learning 
+		                      ID: tutor61@nkt.com
+					        Pass: Admin@123
+
+2) Session => Every Week => (Monday) => (30.01.2023 - 27.02.2023) => total 5 session .  Success	  
+
+               Class Name : "Learn Python Programming ".
+
+		  tutor 2 : 
+		             Profile Name: Aha couching
+		                       ID: senthamizh@nkt.com   
+		                     Pass: Admin@123
+							 
+		  -> Able to add a session.
+          -> Able to reschdule a session.
+          -> Able to cancel a session. 
+          ->Able to update milestone. 		  
+		  
+Individual Acc:
+
+3) Session => Every Week => (Thursday) => (28.01.2023 - 28.02.2023) => total 5 session .  Success	  
+             
+               Class Name : "Learn Python Programming ".
+			 
+			 tutor 3 :  
+			   Profile Name: Raj Krishna
+		                 ID: tutors01@nkt.com   
+		               Pass: Admin@123
+					
+			   
+	      -> Able to add a session.
+          -> Able to reschdule a session.
+          -> Able to cancel a session. 		  
+		  ->Able to update milestone.
+		  
+		  
