@@ -6291,7 +6291,7 @@ function getcustorderdetdata(columnvalue){  /// getting customerorder product de
 function show_imagelabel(){
         
         //console.log('cllicked');
-	    $("#Description_Proof").css("color", "black");
+	    $("#imageInput").css("color", "black");
 		$("#FileUpload").css("color", "black");
 	
 }

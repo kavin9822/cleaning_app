@@ -5,7 +5,7 @@
 
 return array(
 	'admin',
-	'customer',
+	'property',
 	'user'
     
     );

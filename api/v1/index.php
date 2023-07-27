@@ -9,7 +9,7 @@ date_default_timezone_set('Asia/Kolkata');
 /*
  * Production - linux
  */
-set_include_path(".;C:/xampp/htdocs/cleaning_app/api/v1/lib");
+set_include_path(".;C:/xampp/htdocs/cleaning_app/lib");
 
 /*
  * Master registry class

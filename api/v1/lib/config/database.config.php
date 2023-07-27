@@ -6,7 +6,7 @@
 
 return [
     'database_type' => 'mysql',
-    'database_name' => 'hk',
+    'database_name' => 'whyceffy_hk',
     'server' => 'localhost',
     'username' => 'root',
     'password' => '',

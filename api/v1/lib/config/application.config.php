@@ -7,12 +7,13 @@
  */
 
 return [
-    'host_name' => 'http://localhost/',
+    'host_name' => 'https://localhost/',
     'base_folder' => 'cleaning_app/api/v1',//no trailing or leading slash
-    'ApiVersion'=> 'v1',//not in use now
+    'ApiVersion'=> 'V1.0',//not in use now
     'ApiStatus'=> 'Active',
     'SessionDuration'=> 120,//minutes
     'otpSessionDuration'=>120,//minutes,
+    'profile_pic_customer' => 'resource/profile_pic/customer',
     'customer_docs' => 'resource/customer',
     'user_docs' => 'resource/user'
 ];
